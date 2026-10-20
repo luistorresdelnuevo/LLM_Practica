@@ -1,17 +1,5 @@
 # Entrega final — asistente turístico de Tenerife
 
-Este repositorio está preparado como **estructura de trabajo**, no como solución. El código evaluable y las explicaciones del notebook deben ser escritos por el alumno.
-
-## Objetivo del enunciado
-
-Construir un asistente turístico que combine:
-
-- RAG sobre `data/TENERIFE.pdf`.
-- Conversación multiturno con control del contexto.
-- Una herramienta `get_weather(fecha)` real o simulada.
-- Gestión básica de errores y registro de intentos.
-- Evaluación reproducible, visualización y análisis crítico.
-- Integración posterior con un videojuego mediante una API local.
 
 ## Estructura
 
