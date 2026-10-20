@@ -23,6 +23,9 @@ Entrega Final/
 └── artifacts/vector_store/
 ```
 
+## Notebook
+Se encuentra el notebook con el desarrollo y las explicaciones del RAG.
+
 
 ## Videojuego «La brújula de Tenerife»
 
