@@ -29,7 +29,9 @@ Se encuentra el notebook con el desarrollo y las explicaciones del RAG.
 
 ## Videojuego «La brújula de Tenerife»
 
-El videojuego y su backend están en [brujula_tenerife/](brujula_tenerife/README.md). Desde esta carpeta:
+El videojuego y su backend están en [brujula_tenerife/](brujula_tenerife/README.md). Este videojuego, se ha hecho exclusivamente con IA, utilizando como base el RAG desarrollado en el notebook.
+
+Desde esta carpeta:
 
 ```powershell
 .\brujula_tenerife\scripts\iniciar_api.ps1     # terminal 1
