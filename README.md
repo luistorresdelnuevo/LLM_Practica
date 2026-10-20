@@ -23,46 +23,6 @@ Entrega Final/
 └── artifacts/vector_store/
 ```
 
-## Preparación en Windows
-
-El script `scripts/setup_windows.ps1` crea `.venv`, instala las dependencias y registra el kernel:
-
-```powershell
-.\scripts\setup_windows.ps1
-```
-
-Copia la plantilla de entorno y añade tu propia clave:
-
-```powershell
-Copy-Item .env.template .env
-```
-
-No subas `.env` al repositorio.
-
-## Abrir el notebook
-
-```powershell
-.\scripts\iniciar_jupyter.ps1
-```
-
-Selecciona el kernel:
-
-```text
-Python (Entrega Final LLM)
-```
-
-## Orden de trabajo
-
-1. Lee [PLAN_DE_TRABAJO.md](docs/PLAN_DE_TRABAJO.md).
-2. Completa el notebook en orden.
-3. Ejecuta y evalúa cada bloque antes de modularizarlo.
-4. Traslada únicamente el código validado a `src/tenerife_assistant`.
-5. Implementa la API local y después conecta el videojuego.
-6. Completa el informe con tus resultados reales.
-
-## Importante
-
-Los archivos Python contienen contratos, docstrings y marcadores `TODO`, pero no implementan RAG, memoria, function calling ni el asistente. Esas partes forman la práctica evaluable.
 
 ## Videojuego «La brújula de Tenerife»
 
