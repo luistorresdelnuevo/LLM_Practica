@@ -1,0 +1,4 @@
+{"id":"TODO-01","category":"rag","question":"TODO","expected_evidence":"TODO","expected_behavior":"TODO"}
+{"id":"TODO-02","category":"multiturn","turns":["TODO","TODO"],"expected_behavior":"TODO"}
+{"id":"TODO-03","category":"weather","question":"TODO","expected_tool":"get_weather","expected_behavior":"TODO"}
+{"id":"TODO-04","category":"missing_information","question":"TODO","expected_behavior":"TODO"}

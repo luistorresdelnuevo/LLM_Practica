@@ -1,0 +1,31 @@
+# Entorno del notebook
+jupyterlab==4.5.7
+ipykernel==7.2.0
+python-dotenv==1.2.2
+
+# Lectura y preparación documental
+pypdf==6.11.0
+langchain==1.2.18
+langchain-community==0.4.1
+langchain-text-splitters==1.1.2
+
+# Proveedores disponibles: el alumno debe elegir y justificar uno
+openai==2.38.0
+langchain-openai==1.1.11
+google-genai==1.75.0
+langchain-google-genai==4.2.2
+
+# Datos, validación, evaluación y visualización
+pydantic==2.13.4
+pandas==3.0.3
+matplotlib==3.10.8
+tiktoken==0.12.0
+requests==2.34.2
+
+# Frontera con el videojuego
+fastapi==0.135.1
+uvicorn==0.41.0
+pygame-ce==2.5.7
+
+# Pruebas
+pytest==9.0.2
